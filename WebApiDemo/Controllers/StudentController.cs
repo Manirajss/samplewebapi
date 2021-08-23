@@ -18,7 +18,7 @@ namespace WebApiDemo.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "student";
+            return "student";//return student by id goes here
         }
 
         // POST api/values
